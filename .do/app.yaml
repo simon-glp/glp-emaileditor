@@ -7,3 +7,4 @@ services:
     deploy_on_push: true
     repo: simon-glp/glp-emaileditor
   name: email-react
+  

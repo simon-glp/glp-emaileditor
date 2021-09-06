@@ -7,3 +7,4 @@ spec:
       branch: main
       repo_clone_url: https://github.com/simon-glp/glp-emaileditor.git
     name: email-react
+    
